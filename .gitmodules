@@ -1,0 +1,3 @@
+[submodule "node-red-settings"]
+	path = node-red-settings
+	url = https://github.com/tjbotfan/virtual-tjbot-handson.git
